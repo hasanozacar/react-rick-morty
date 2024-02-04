@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# Rick and Morty Character Explorer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bu proje, Rick and Morty API kullanılarak oluşturulmuş bir karakter keşif uygulamasıdır. Proje, React ve Redux kullanılarak geliştirilmiştir.
+
+## Özellikler
+
+- Tüm bölümleri ve karakterleri listeleyebilme.
+- Favori karakterleri seçip, favorilere ekleyebilme.
+- Favori karakterlerinizi yönetebilme.
+
+## Kullanım
+
+Proje dosyalarını bilgisayarınıza indirdikten sonra aşağıdaki adımları izleyebilirsiniz:
+
+1. Terminal veya komut istemcisini açın.
+2. Proje dizinine gidin: `cd proje-dizininiz`
+3. Gerekli paketleri yüklemek için: `npm deploy` veya `yarn deploy`
+4. Proje'yi başlatmak için: `npm start` veya `yarn start`
+
+Uygulama, tarayıcınızda [http://localhost:3000](http://localhost:3000) adresinde çalışacaktır.
+
+## Ekran Görüntüleri
+
+![Ana Sayfa](/screenshots/home.Png)
+![Bölüm Detayı](/screenshots/episode-detail.Png)
+![Favoriler](/screenshots/favorites.Png)
+
 
 ## Available Scripts
 
